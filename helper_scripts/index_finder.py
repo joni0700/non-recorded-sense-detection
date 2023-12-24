@@ -1,5 +1,3 @@
-import os
-os.environ["HF_DATASETS_CACHE"] = "/mount/arbeitsdaten/cik/users/jonathan/.cache/huggingface/datasets"
 import spacy
 import itertools
 from lemminflect import *

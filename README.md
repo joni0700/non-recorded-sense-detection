@@ -3,7 +3,7 @@ Sharing is only for the sake of comprehensibility and reproducibility of results
 In addition, some scripts have been changed to handle different data, which is why in some cases only certain data can be processed.
 
 ## data
-The data directory is due to its size not included in this repository. It can be downloaded [here](https://drive.google.com/drive/folders/1w4GEDxhQBuppOLWB_TW0Qw5u3E1Oxn8E?usp=sharing).
+The data directory is due to its size not included in this repository. It can be downloaded [here]
 
 This directory contains exemplary data to test the functionality of the scripts.
 All final results of the models' predictions are included in full.
